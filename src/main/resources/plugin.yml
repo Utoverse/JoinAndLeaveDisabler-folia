@@ -7,4 +7,7 @@ website: ${url}
 main: ${mainClass}
 
 commands: {}
+
 permissions: {}
+
+folia-supported: true
